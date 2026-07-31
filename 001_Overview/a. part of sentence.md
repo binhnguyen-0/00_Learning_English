@@ -15,3 +15,4 @@ eg. 'The dog' runs down the street.
 ```  
 3. Basic sentence (câu cơ bản): S + V + O
 
+<img width="506" height="271" alt="image" src="https://github.com/user-attachments/assets/03d6644e-3790-44f1-bd58-1fa320c8dd0d" />
